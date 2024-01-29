@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658776451 source:l:\problem solve\leetcode\good pairs\good_pairs\main.c
+	<stdio.h>
+	<stdlib.h>
+

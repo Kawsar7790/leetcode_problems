@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660982319 source:l:\problem solve\leetcode\subtract the product and sum of digits of an integer\subtract_product_and_sum_1281\main.c
+	<stdio.h>
+	<stdlib.h>
+
