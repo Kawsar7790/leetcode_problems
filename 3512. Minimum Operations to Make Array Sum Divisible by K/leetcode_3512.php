@@ -1,0 +1,14 @@
+<?php
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @param Integer $k
+     * @return Integer
+     */
+    function minOperations($nums, $k) {
+        $operations = array_sum($nums) % $k;
+
+        return $operations;
+    }
+}
